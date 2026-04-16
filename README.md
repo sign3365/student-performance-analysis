@@ -34,4 +34,4 @@ This project analyses student performance using Microsoft Excel. The objective i
 ---
 
 ## 👨‍💻 Author
-Rameet Kumar
+Rafique Ahmed Memon
